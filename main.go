@@ -18,9 +18,8 @@ const (
 
 var urls = []string{
 	"https://workshop.zhashkevych.com/",
-	"https://golang-ninja.com/",
+	"https://api.coincap.io/v2/assets/",
 	"https://zhashkevych.com/",
-	"https://google.com/",
 	"https://golang.org/",
 }
 
